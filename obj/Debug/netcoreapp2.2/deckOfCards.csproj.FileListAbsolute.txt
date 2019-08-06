@@ -1,0 +1,11 @@
+/media/thethup/KINGSTON/coding/coding-dojo/c#/oop/deckOfCards/obj/Debug/netcoreapp2.2/deckOfCards.csprojAssemblyReference.cache
+/media/thethup/KINGSTON/coding/coding-dojo/c#/oop/deckOfCards/obj/Debug/netcoreapp2.2/deckOfCards.csproj.CoreCompileInputs.cache
+/media/thethup/KINGSTON/coding/coding-dojo/c#/oop/deckOfCards/obj/Debug/netcoreapp2.2/deckOfCards.AssemblyInfoInputs.cache
+/media/thethup/KINGSTON/coding/coding-dojo/c#/oop/deckOfCards/obj/Debug/netcoreapp2.2/deckOfCards.AssemblyInfo.cs
+/media/thethup/KINGSTON/coding/coding-dojo/c#/oop/deckOfCards/bin/Debug/netcoreapp2.2/deckOfCards.deps.json
+/media/thethup/KINGSTON/coding/coding-dojo/c#/oop/deckOfCards/bin/Debug/netcoreapp2.2/deckOfCards.runtimeconfig.json
+/media/thethup/KINGSTON/coding/coding-dojo/c#/oop/deckOfCards/bin/Debug/netcoreapp2.2/deckOfCards.runtimeconfig.dev.json
+/media/thethup/KINGSTON/coding/coding-dojo/c#/oop/deckOfCards/bin/Debug/netcoreapp2.2/deckOfCards.dll
+/media/thethup/KINGSTON/coding/coding-dojo/c#/oop/deckOfCards/bin/Debug/netcoreapp2.2/deckOfCards.pdb
+/media/thethup/KINGSTON/coding/coding-dojo/c#/oop/deckOfCards/obj/Debug/netcoreapp2.2/deckOfCards.dll
+/media/thethup/KINGSTON/coding/coding-dojo/c#/oop/deckOfCards/obj/Debug/netcoreapp2.2/deckOfCards.pdb
